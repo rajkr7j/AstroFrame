@@ -1,16 +1,4 @@
 # astronomy_picture_of_the_day_app
+You can download its apk fule here https://drive.google.com/file/d/1vFcFwi7A9HaYiGWJqIGjH_Hp9R_SIbfe/view?usp=sharing
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+if you clone this repository make sure you have your api key in .env in assets folder.
